@@ -1,6 +1,6 @@
 :root {
 	--rojo: hsl(0, 85%, 75%);
-	--fondo: #ffffff;
+	--fondo: url(img/base14.jpg);
 	/* text-shadow: 1px 2px 2px rgb(122, 121, 121); */
 }
 
